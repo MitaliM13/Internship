@@ -1,7 +1,7 @@
 # Internship
-TASK 1
-A tribute page about the unsung scientists of India.
-TASK 2
-Portfolio Website
-TASK 3
-Netflix clone
+TASK 1 </br>
+A tribute page about the unsung scientists of India.</br>
+TASK 2</br>
+Portfolio Website</br>
+TASK 3</br>
+Netflix clone</br>
